@@ -8,9 +8,13 @@
 - javascript
 - typescript
 
-現在はjavascriptを中心にフロントエンド技術の習得に注力しています。
 
 # 個人製作物一覧
+## 話題提供アプリ
+👉 [https://yoidore-topics.vercel.app/](https://yoidore-topics.vercel.app/)
+
+reactで制作した、話題提供アプリです。
+
 ## 音楽プレーヤー
 👉 [https://audio-player-ih-jf.vercel.app/](https://audio-player-ih-jf.vercel.app/)
 
