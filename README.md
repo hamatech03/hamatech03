@@ -1,14 +1,14 @@
 # About me
 私のポートフォリオはこちら👉 [https://portfolio-ih-jf.vercel.app/](https://portfolio-ih-jf.vercel.app/)
 
+2026年2月22日～基本情報技術者の資格取得を目標に学習を開始。
+
 ## 学習中または学習経験のある言語
 - python
 - html
 - css
 - javascript
 - typescript
-
-※2026年2月22日～基本情報技術者の資格取得を目標に学習を開始。
 
 # 個人製作物一覧
 ## 話題提供アプリ
